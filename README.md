@@ -1,2 +1,2 @@
 # CSES-Problem-SET
-in this repo i will be uploading cses problems solution.
+In this repo i will be uploading cses problems solution.
